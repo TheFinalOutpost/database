@@ -26,7 +26,7 @@
     "require": {
         "php": ">=7.2.0",
         "cakephp/core": "^4.0",
-        "thefinaloutpost/cakedatasource": "dev-main"
+        "thefinaloutpost/cakedatasource": "^0.0.1"
     },
     "suggest": {
         "cakephp/i18n": "If you are using locale-aware datetime formats or Chronos types."
